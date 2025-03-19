@@ -7,10 +7,12 @@ pydantic>=2.0.3
 openai>=0.27.8
 requests>=2.31.0
 tiktoken>=0.4.0
+huggingface-hub>=0.29.3
 
 # 数据处理与分析
 numpy>=1.24.0
 pandas>=2.0.3
+tiktoken
 
 # 向量数据库与嵌入
 chromadb>=0.4.6
