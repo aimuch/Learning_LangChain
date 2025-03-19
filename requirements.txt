@@ -1,0 +1,23 @@
+# 核心依赖 - LangChain相关
+langchain>=0.0.267
+python-dotenv>=1.0.0
+pydantic>=2.0.3
+
+# LLM服务与接口
+openai>=0.27.8
+requests>=2.31.0
+tiktoken>=0.4.0
+
+# 数据处理与分析
+numpy>=1.24.0
+pandas>=2.0.3
+
+# 向量数据库与嵌入
+chromadb>=0.4.6
+faiss-cpu>=1.7.4
+transformers>=4.31.0
+sentence-transformers>=2.2.2
+
+# 开发工具与可视化
+jupyter>=1.0.0
+matplotlib>=3.7.2
